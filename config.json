@@ -1,9 +1,20 @@
 {
-  "host": "TheAce127.aternos.me",
-  "port": 45743,
-  "username": "SteveJobs",
-  "auth": "offline",
-  "version": "1.21.8",
+  "servers": [
+    {
+      "host": "TheAce127.aternos.me",
+      "port": 45743,
+      "username": "SteveJobs",
+      "auth": "offline",
+      "version": "1.21.8"
+    },
+    {
+      "host": "SkeletonSMP-V2.aternos.me",
+      "port": 64218,
+      "username": "BillGates",
+      "auth": "offline",
+      "version": "1.21.8"
+    }
+  ],
   "antiDetection": {
     "minMoveDuration": 3000,
     "maxMoveDuration": 10000,
