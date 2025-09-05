@@ -1,0 +1,15 @@
+{
+  "host": "TheAce127.aternos.me",
+  "port": 45743,
+  "username": "SteveJobs",
+  "auth": "offline",
+  "version": "1.21.8",
+  "antiDetection": {
+    "minMoveDuration": 3000,
+    "maxMoveDuration": 10000,
+    "minPauseDuration": 5000,
+    "maxPauseDuration": 15000,
+    "jumpChance": 0.2,
+    "lookAroundChance": 0.3
+  }
+}
