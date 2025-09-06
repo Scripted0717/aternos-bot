@@ -1,5 +1,5 @@
 {
-  "name": "aternos-afk-bot",
+  "name": "aternos-multi-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
